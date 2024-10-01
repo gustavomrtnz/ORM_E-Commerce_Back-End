@@ -1,5 +1,13 @@
 # Back-End E Commerce 
 
+## Table Of Contents
+- [User Story](#User-Story)
+- [Description](#Description)
+- [Installation](#User-Instructions)
+- [Problmes I Ran Into](#Issues)
+- [Solution](#Soution)
+
+
 ## User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
@@ -19,3 +27,9 @@ This application mocks database that could be found in the back end of an e comm
 5. Seed your information by running [ npm run seed ]
 6. lastly run your server by running [ node server ]
 7. To get and see your many to many relations and products by id insert your server name into your browser or insomnia and use the designated destinations ..../api/(categories, tags, or products)
+
+## Problems I Ran Into
+While trying to replicate trying to make a GET call I kept getting an error in my console that was giving me a syntax error, upon checking my code I was not able to see the proper problem
+
+### Solution
+After many attempts at checking my code for syntax errors and doing research on stackoverflow and geeksforgeeks I resorted to asking my instructors fo help and the problem was not in my code but with my insomnia headers. 

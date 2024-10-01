@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const apiRoutes = require('./api');
-console.log(3,'bundle')
+
 router.use('/api', apiRoutes);
 
 // router.use((req, res) => {

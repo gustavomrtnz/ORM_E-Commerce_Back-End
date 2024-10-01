@@ -4,7 +4,7 @@
 - [User Story](#User-Story)
 - [Description](#Description)
 - [Installation](#User-Instructions)
-- [Issues](#Problmes-I-Ran_into)
+- [Issues](#Problmes-I-Ran-Into)
 - [Solution](#Solution)
 
 

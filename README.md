@@ -4,8 +4,8 @@
 - [User Story](#User-Story)
 - [Description](#Description)
 - [Installation](#User-Instructions)
-- [Problmes I Ran Into](#Issues)
-- [Solution](#Soution)
+- [Issues](#Problmes-I-Ran_into)
+- [Solution](#Solution)
 
 
 ## User Story
